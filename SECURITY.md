@@ -1,6 +1,6 @@
-Security
+# Security policy
 
-Table of Contents
+## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Supported Version](#supported-version)
